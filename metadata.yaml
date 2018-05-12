@@ -1,0 +1,29 @@
+_repo: No-Man-s-Land_23874
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: McNeile, H. C. (Herman Cyril)
+    alias: McNeile, Herman Cyril
+    birthdate: 1888
+    deathdate: 1937
+    gutenberg_agent_id: '26827'
+    url: http://www.gutenberg.org/2009/agents/26827
+    wikipedia: http://en.wikipedia.org/wiki/H._C._McNeile
+description: ''
+gutenberg_bookshelf: World War I
+gutenberg_issued: '2007-12-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '23874'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'World War, 1914-1918 -- Fiction'
+- !lcc 'PR'
+title: No Man's Land
+url: http://www.gutenberg.org/ebooks/23874
